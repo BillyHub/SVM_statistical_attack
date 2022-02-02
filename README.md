@@ -14,6 +14,6 @@ prob_error_TVD.m
 chernoff_nick.m
 ```
 
-Copyright 2020 to Bo Guan, Dennis L. Goeckel, Hossein Pishro-Nik
+Copyright 2022 to Bo Guan, Dennis L. Goeckel, Hossein Pishro-Nik
 
 Department of Electrical and Computer Engineering, UMass Amherst.
